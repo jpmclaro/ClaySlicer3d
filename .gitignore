@@ -19,8 +19,9 @@ models/
 *.obj
 *.stl
 
-# Imagens geradas
+# Imagens geradas (exceto screenshots em docs/)
 docs/*.png
+!docs/img*.png
 
 # Backups
 BCK/
