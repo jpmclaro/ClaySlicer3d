@@ -1,0 +1,13 @@
+# Dependências principais
+numpy>=1.20.0
+PyQt5>=5.15.0
+shapely>=2.0.0
+vtk>=9.0.0
+
+# Utilidades da interface (opcional, usadas apenas em scripts de demonstração)
+matplotlib>=3.5.0
+
+# Dependências opcionais (para funcionalidades avançadas)
+scipy>=1.8.0        # Necessário para rotinas do trimesh
+# Pillow>=8.0.0       # Para processamento de imagens
+trimesh>=3.9.0      # Para manipulação avançada de malhas 3D

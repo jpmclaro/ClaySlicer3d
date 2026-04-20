@@ -1,0 +1,40 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# GCode gerado
+gcode_output/
+*.gcode
+
+# Modelos 3D de teste
+models/
+*.obj
+*.stl
+
+# Imagens geradas
+docs/*.png
+
+# Backups
+BCK/
+bck_py/
+old/
+original/
+
+# Arquivos temporários / IDE
+*.bak
+*.bak_freeze
+*.tmp
+.vscode/
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
