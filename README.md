@@ -2,6 +2,10 @@
 
 Gerador e visualizador de G-code contínuo (vase mode) especializado em impressão 3D de argila/cerâmica.
 
+| Modelo 3D carregado | Simulação do percurso |
+|---|---|
+| ![Modelo 3D](docs/img1.png) | ![Simulação](docs/img2.png) |
+
 ## Visão Geral
 
 O ClaySlicer3d opera em dois modos:
